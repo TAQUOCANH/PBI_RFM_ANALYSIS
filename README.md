@@ -37,3 +37,10 @@
 ### 4. Prototype and Review
 <img width="1200" alt="stage 4" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/d15ddc7c-99e8-44c7-b5c1-81a6d37bbdec">
 
+## III. Main Process
+### 1. Connect data to PBI and modeling
+
+
+### 2. Build Dashboard
+
+
