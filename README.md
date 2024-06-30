@@ -27,10 +27,13 @@
 ## II. Apply design-thinking mindset
 ### 1. Empathize
 <img width="1200" alt="emphathy" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/0efe5635-06f2-496a-93c4-83aaf6c2d092">
+
 ### 2. Define point of view
 <img width="1200" alt="stage2" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/e844c392-3adf-4181-b3e4-377346051270">
+
 ### 3.Ideate
 <img width="1200" alt="stage3" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/4eb68089-75c3-4114-b5c6-d749337b61b1">
+
 ### 4. Prototype and Review
 <img width="1200" alt="stage 4" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/d15ddc7c-99e8-44c7-b5c1-81a6d37bbdec">
 
