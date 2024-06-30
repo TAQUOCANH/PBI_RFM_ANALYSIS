@@ -39,8 +39,12 @@
 
 ## III. Main Process
 ### 1. Connect data to PBI and modeling
-
+<img width="1200" alt="Screenshot_8" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/e808fd91-5403-45df-aa7c-abe09f984460">
 
 ### 2. Build Dashboard
-
-
+Sale Overview
+<img width="1200" alt="Screenshot_9" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/d58ccddc-82ee-4665-943d-d28881fd7ee3">
+Customer
+<img width="1200" alt="Screenshot_10" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/2686126a-7861-4975-9ad7-7ef6c1aa1201">
+Product
+<img width="1200" alt="Screenshot_11" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/ae8f90a0-382d-48c7-9d13-430926becd16">
