@@ -49,35 +49,132 @@
 <p><b>Product</b></p>
 <img width="1200" alt="Screenshot_11" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/ae8f90a0-382d-48c7-9d13-430926becd16">
 
-## IV. Insight
-Market Focus
-Primary Markets: The United States, Canada, and Australia contribute 80% of the revenue.
-Profit Focus: The United States and Australia generate 60% of the profit.
-Customer Segmentation and Market Insights
-US Market
-Customer Base:
-Online customers: 95% of the customer base, contributing only 15% of the revenue.
-In-store customers: 85% of the revenue.
-Key Customer Segments:
-Largest customer groups: "New Customer," "Promising," and "Cannot Lose Them."
-High revenue and profit groups: "Promising," "Cannot Lose Them," "At Risk," "Loyal," and "Champions."
-Revenue Contribution:
-B2B: "Cannot Lose Them" and "Champions" contribute over 80% of revenue but with low or negative profit.
-B2C: "Promising," "At Risk," and "Loyal" groups generate over 95% of revenue and profit.
-AU Market
-Customer Base:
-Online customers: 99% of the customer base, generating 85% of revenue.
-Key Customer Segments:
-Largest customer groups: "At Risk," "Champions," and "Loyal."
-High revenue and profit groups: "At Risk," "Champions," and "Loyal."
-Market Type: Primarily B2C.
-Product Insights
-US Market
-"Promising" Segment:
-Highest total profit from Road Bikes ($465.92K), followed by Mountain Bikes ($289.23K) and Touring Bikes ($123.56K).
-Focus Products: Road Bikes and Mountain Bikes.
-AU Market
-"Champions" Segment:
-Highest profit from Road Bikes ($660.1K), followed by Mountain Bikes ($497.45K).
+<h2>IV. Insights</h2>
 
-## V. Recommendations
+<h3>Market Focus</h3>
+<ul>
+    <li><strong>Primary Markets:</strong> The United States, Canada, and Australia contribute 80% of the revenue.</li>
+    <li><strong>Profit Focus:</strong> The United States and Australia generate 60% of the profit.</li>
+</ul>
+
+<h3>Customer Segmentation and Market Insights</h3>
+<h4>US Market</h4>
+<ul>
+    <li><strong>Customer Base:</strong>
+        <ul>
+            <li>Online customers: 95% of the customer base, contributing only 15% of the revenue.</li>
+            <li>In-store customers: 85% of the revenue.</li>
+        </ul>
+    </li>
+    <li><strong>Key Customer Segments:</strong>
+        <ul>
+            <li>Largest customer groups: "New Customer," "Promising," and "Cannot Lose Them."</li>
+            <li>High revenue and profit groups: "Promising," "Cannot Lose Them," "At Risk," "Loyal," and "Champions."</li>
+        </ul>
+    </li>
+    <li><strong>Revenue Contribution:</strong>
+        <ul>
+            <li>B2B: "Cannot Lose Them" and "Champions" contribute over 80% of revenue but with low or negative profit.</li>
+            <li>B2C: "Promising," "At Risk," and "Loyal" groups generate over 95% of revenue and profit.</li>
+        </ul>
+    </li>
+</ul>
+
+<h4>AU Market</h4>
+<ul>
+    <li><strong>Customer Base:</strong>
+        <ul>
+            <li>Online customers: 99% of the customer base, generating 85% of revenue.</li>
+        </ul>
+    </li>
+    <li><strong>Key Customer Segments:</strong>
+        <ul>
+            <li>Largest customer groups: "At Risk," "Champions," and "Loyal."</li>
+            <li>High revenue and profit groups: "At Risk," "Champions," and "Loyal."</li>
+        </ul>
+    </li>
+    <li><strong>Market Type:</strong> Primarily B2C.</li>
+</ul>
+
+<h3>Product Insights</h3>
+<h4>US Market</h4>
+<ul>
+    <li><strong>"Promising" Segment:</strong>
+        <ul>
+            <li>Highest total profit from Road Bikes ($465.92K), followed by Mountain Bikes ($289.23K) and Touring Bikes ($123.56K).</li>
+        </ul>
+    </li>
+    <li><strong>Focus Products:</strong> Road Bikes and Mountain Bikes.</li>
+</ul>
+
+<h4>AU Market</h4>
+<ul>
+    <li><strong>"Champions" Segment:</strong>
+        <ul>
+            <li>Highest profit from Road Bikes ($660.1K), followed by Mountain Bikes ($497.45K).</li>
+        </ul>
+    </li>
+</ul>
+
+<h2>V. Recommendations</h2>
+
+<h3>Market Strategy</h3>
+<ul>
+    <li>Focus efforts on the United States and Australia to maximize revenue and profit.</li>
+</ul>
+
+<h3>Customer Strategy</h3>
+<h4>US Market</h4>
+<ul>
+    <li><strong>Promising Segment:</strong>
+        <ul>
+            <li>Prioritize for long-term growth.</li>
+            <li>Engage with special experiences and advertisements.</li>
+        </ul>
+    </li>
+    <li><strong>B2B Segments:</strong>
+        <ul>
+            <li>Offer new products with special offers to "Champions" and "Cannot Lose Them" groups to increase product awareness.</li>
+        </ul>
+    </li>
+    <li><strong>Overall:</strong> Build long-term relationships with the "Promising" customer segment.</li>
+</ul>
+
+<h4>AU Market</h4>
+<ul>
+    <li><strong>Champions Segment:</strong>
+        <ul>
+            <li>Focus for long-term benefits.</li>
+            <li>Enhance after-sales services and provide special offers to increase customer loyalty.</li>
+        </ul>
+    </li>
+</ul>
+
+<h3>Product Strategy</h3>
+<h4>US Market</h4>
+<ul>
+    <li><strong>Promising Segment:</strong>
+        <ul>
+            <li>Invest in promoting Road Bikes and Mountain Bikes.</li>
+        </ul>
+    </li>
+    <li><strong>Overall:</strong>
+        <ul>
+            <li>Tailor product offerings to meet the preferences of high-profit segments.</li>
+        </ul>
+    </li>
+</ul>
+
+<h4>AU Market</h4>
+<ul>
+    <li><strong>Champions Segment:</strong>
+        <ul>
+            <li>Prioritize Road Bikes and Mountain Bikes.</li>
+        </ul>
+    </li>
+    <li><strong>Overall:</strong>
+        <ul>
+            <li>Ensure high-quality and competitively priced products to maintain profitability.</li>
+        </ul>
+    </li>
+</ul>
