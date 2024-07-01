@@ -47,7 +47,7 @@
 <p><b>Customer</b></p>
 <img width="1200" alt="Screenshot_10" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/2686126a-7861-4975-9ad7-7ef6c1aa1201">
 <p><b>Product</b></p>
-<img width="1200" alt="Screenshot_11" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/ae8f90a0-382d-48c7-9d13-430926becd16">
+<img width="1200" alt="Screenshot_12" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/c89e75b8-3a12-4525-8c42-4c053f3dd162">
 
 <h2>IV. Insights</h2>
 
